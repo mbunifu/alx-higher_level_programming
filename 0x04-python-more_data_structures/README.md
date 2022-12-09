@@ -1,1 +1,1 @@
-Will update this file later on
+This Project is about more linked lists in C
